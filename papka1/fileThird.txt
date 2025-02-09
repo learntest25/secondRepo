@@ -1,1 +1,3 @@
-file3text111222
+file3text111222333g
+t status
+it stat
