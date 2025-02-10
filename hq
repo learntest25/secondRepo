@@ -1,0 +1,17 @@
+[33mcommit c6fc99e2ca87c4bf7c4c1dbebb6d2b9de082e482[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mnew_branch[m[33m, [m[1;31morigin/new_branch[m[33m)[m
+Author: fel562 <felite333@gmail.com>
+Date:   Mon Feb 10 10:47:44 2025 +0100
+
+    Task resolved
+
+[33mcommit e61b1e61ce61ff9c9065ec1980353439698e18d5[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: Dmitry Medvedev <dmit.medv@gmail.com>
+Date:   Tue May 3 14:29:36 2022 +0300
+
+    Update README.md
+
+[33mcommit 103c3924b64d8796209ac622ba97068faa22a84a[m
+Author: Dmitry Medvedev <dmit.medv@gmail.com>
+Date:   Sun Nov 21 18:33:55 2021 +0300
+
+    Initial commit
